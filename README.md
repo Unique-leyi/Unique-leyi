@@ -1,6 +1,6 @@
 # 🏄‍♂️ Ayoleyi Oluwatoki
 
-**`Unique Leyi (Developer/Drummer)`**
+**`Ayoleyi Oluwatoki (Developer/Drummer)`**
 
 I'm a full-stack developer and passionate drummer, dedicated to creating my vision of a digital world while keeping the rhythm of life alive. Each coding project I undertake is a journey from conception and design to tackling real-world challenges with elegant code solutions. 
 
